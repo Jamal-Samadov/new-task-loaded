@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.AssemblyInfo.cs
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.exe
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.deps.json
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.json
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.runtimeconfig.dev.json
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.dll
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\bin\Debug\netcoreapp3.1\Task_1.pdb
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.dll
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.pdb
+C:\Users\User\Desktop\task  yeni\Task_1\Task_1\obj\Debug\netcoreapp3.1\Task_1.genruntimeconfig.cache
